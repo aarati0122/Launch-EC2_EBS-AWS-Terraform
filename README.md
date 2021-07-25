@@ -8,6 +8,7 @@
 
 - So you can see the .tf file where I write the code which can pereform  above task  [Click Here](CodeFile/launch_ec2_ebs.tf)
 
+![init_command](https://user-images.githubusercontent.com/60148173/126897043-f6969f21-8907-4e51-9aee-cf11c9cd9466.PNG)
 
 ![terr_plan](https://user-images.githubusercontent.com/60148173/123553305-ff686f80-d797-11eb-95f6-bb8a88884d93.PNG)
 
